@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_minimal_minimal_kit_react=self.webpackChunk_minimal_minimal_kit_react||[]).push([[4525],{4525:function(i,n,e){e.r(n);var a=e(46417);n.default=function(){return(0,a.jsx)(a.Fragment,{children:"Hello"})}}}]);
